@@ -9,7 +9,13 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            leksion3.run();
+           
+           
+           
+           
+           
+           
+            leksion4.run();
         }
     }
 }
